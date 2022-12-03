@@ -1,0 +1,5 @@
+<label>       </label><br>
+		<label>       </label><br>
+		
+		<input type="text" placeholder ="Select train"><br>
+		<label>       </label><br>
