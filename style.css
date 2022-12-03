@@ -1,0 +1,38 @@
+*
+{
+	padding: 0;
+	margine: 0;
+}
+body
+{
+	background-image: url(background.jpg):
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.menu-bar
+{
+	background: rgb(0,100,)
+	text-align: center;
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style:none;
+	color: #fff;
+}
+.menu-bar ul li
+{
+	width: 120px;
+	margine: 15px;
+	padding: 15px;
+}
+.menu-bar u; li a
+{
+	text-decoration: none;
+	color; #fff
+}
+
+
+	
